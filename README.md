@@ -22,7 +22,7 @@ or download the zip from the green button at the beginning of the repository
 
 <img src="https://i.imgur.com/M2YvvGp.png" alt="Download zip" border="0" width="350">
 
-<img src="https://i.imgur.com/NEeFHRg.png" alt="Download zip" border="0" width="350">
+<img src="https://gyazo.com/a5ccfe049785009d758cb47f2dabaa73" alt="Download zip" border="0" width="350">
 
 ## 📄 Neccessary files needed to run the program
 
