@@ -67,6 +67,3 @@ so here i would write 0.22.
 5. Create a new _Pull Request_
 
 **After your pull request is merged**, you can safely delete your branch.
-
-
----
