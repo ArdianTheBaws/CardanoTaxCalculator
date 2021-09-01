@@ -15,7 +15,7 @@ Windows:
 You can clone the repository through CMD (Command Prompt) just by typing:
 
 ```sh
-git clone https://github.com/AsifmAmin/Cardano_Rewards_Tax_Calculator
+git clone https://github.com/ArdianTheBaws/CardanoTaxCalculator
 ```
 
 or download the zip from the green button at the beginning of the repository
