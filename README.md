@@ -1,4 +1,4 @@
-# Cardano_Rewards_Tax_Calculator
+# Cardano Tax Calculator
 
 
 
@@ -60,7 +60,7 @@ so here i would write 0.22.
 
 ## 🚀 Contribution
 
-1. Make the _fork_ of the project (<https://github.com/AsifmAmin/Cardano_Rewards_Tax_Calculator/fork>)
+1. Make the _fork_ of the project (<https://github.com/ArdianTheBaws/CardanoTaxCalculator/fork>)
 2. Create a _branch_ for your modification (`git checkout -b my-new-resource`)
 3. Do _commit_ (`git commit -am 'Adding a new resource ...'`)
 4. _Push_ (`git push origin my-new-feature`)
